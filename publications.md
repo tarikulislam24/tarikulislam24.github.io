@@ -13,14 +13,8 @@ permalink: /publications/
 
 ## Publications
 
-*   **Title:** [Publication Title]
-    *   **Authors:** [Your Name], [Co-author(s)]
-    *   **Conference/Journal:** [Conference/Journal Name]
-    *   **Year:** [Year]
-    *   **Link:** [Link to publication]
-
-*   **Title:** [Technical Report Title]
-    *   **Authors:** [Your Name]
-    *   **Year:** [Year]
-    *   **Link:** [Link to report]
-
+*   **Title:** [Integrated Computational Approaches for Inhibiting Sex Hormone-Binding Globulin in Male Infertility by Screening Potent Phytochemicals]
+    *   **Authors:** [Biswas S, Mita MA, Afrose S, Hasan MR, **Islam MT**, Rahman MA, Ara MJ, Chowdhury MB, Meem HN, Mamunuzzaman M, Ahammad T.]
+    *   **Journal:** [Life]
+    *   **Year:** [2023]
+    *   **Link:** [https://www.mdpi.com/2075-1729/13/2/476]
