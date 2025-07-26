@@ -1,5 +1,3 @@
-# mdtarikulislam.github.io
-
 # Personal Academic and Professional Portfolio
 
 This is a personal portfolio website built with Jekyll and hosted on GitHub Pages. It is designed to showcase academic achievements, research projects, and professional skills.
