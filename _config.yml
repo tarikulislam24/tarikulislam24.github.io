@@ -5,4 +5,31 @@ description: >-
  Master’s Student in Genetic Engineering and Biotechnology at University of Rajshahi.
  Passionate about oncology, natural compounds, and medical biotechnology.
 Seeking Master's/PhD opportunities in cancer research, bioactive phytochemicals, or Biotechnology
+
 baseurl: ""
+
+url: "https://tarikulislam24.github.io"
+orcid_id: 0009-0004-0577-984X
+github_username: tarikulislam24
+linkedin_username: md-tarikul-islam-58294b201
+google_scholar: oMxBJPIAAAAJ
+
+markdown: kramdown
+theme: minima # A simple, clean, and responsive Jekyll theme
+plugins:
+  - jekyll-feed
+  
+  navigation:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research/
+  - title: Publications
+    url: /publications/
+  - title: Projects
+    url: /projects/
+  - title: Courses
+    url: /courses/
+  - title: CV
+    url: /cv/
+footer_text: "© 2025 Md. Tarikul Islam. Powered by Jekyll and hosted on GitHub Pages."
